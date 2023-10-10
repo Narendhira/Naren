@@ -1,1 +1,1 @@
-# Naren
+# Earthquake_prediction-
